@@ -4,8 +4,10 @@
   <img src="https://github.com/user-attachments/assets/4b0df2e1-ddb3-4da4-9d35-15af4f18bdda" alt="양승필" style="margin-right: 20px;">
   <div>
     <h1>양승필</h1>
-    <p>Email : yang_seongp31@naver.com</p>
     <p>생년월일 : 1999.03.31</p>
+    <p>Email : yang_seongp31@naver.com</p>
+    <p>GitHub : https://github.com/yangsp31</p>
+    <p>기술 블로그 : https://velog.io/@yang_seongp31/series</p>
     <br>
     <p>패킷 단위로 나뉜 데이터가 네트워크를 통해 전달되어 재조립되고, 백엔드에서 의미 있는 데이터로 구조화되고 정제된 뒤, DB에 저장되거나 다시 네트워크를 통해 전달되는 과정을 보며 그 흐름에 흥미를 느꼈습니다.</p>
   </div>
@@ -603,6 +605,15 @@ if __name__ == '__main__':
 # 수상 내역
 
 ### 동상 - 2024년 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회
+<br><br><br>
+
+# 읽어주셔서 감사합니다.
+
+* 포트폴리오에서 미처 다 말하지 못한 부분은 GitHub와 기술 블로그에 있으니 필요하시면 방문해 주세요.
+
+  * GitHub : https://github.com/yangsp31
+ 
+  * 기술 블로그 : https://velog.io/@yang_seongp31/series
 
 
 
