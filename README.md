@@ -37,7 +37,7 @@
  * 외부 API의 응답이 Webhook 방식으로 들어오는 환경에서, Redis와 S3를 활용한 백엔드 처리와 Next.js 기반 프론트엔드에서의 Polling을 사용하여 실시간 데이터 전달을 고려한 설계 예시
 <br><br>
 
-# 기술의 이유를 묻고, 구조에 질문을 던집니다.
+# 회고를 통해 기술의 이유를 묻고, 구조에 질문을 던집니다.
 저는 프로젝트를 설계하고 구현할 때마다 왜 이 기술을 선택했는가, 이 구조가 정말 최선일까 라는 질문을 스스로에게 던지며 고민합니다.
 
 그 이유는, 단순히 기능이 작동하는 것에 만족하지 않고, 더 나은 방법을 고민하고 적용하는 과정이 진짜 프로젝트를 완성하는 것이라 생각하기 때문입니다.
@@ -436,7 +436,7 @@ if __name__ == '__main__':
 
   * [DrawD Next.js GitHub](https://github.com/yangsp31/DrawD_Next.js)
  
-  * SpringBoot 깃허브는 아직 서비스 중이기에 제출하지 않았음.
+  * [DrawD SpringBoot GitHub](https://github.com/yangsp31/DrawD-SpringBoot)
 <br><br><br><br>
 
 ## ReLife - 이미지 생성형 A.I와 이미지 처리를 활용한 인테리어 시뮬레이션 서비스<br><br>(2024.03.05. ~ 2024.06.02.) (4인, 팀 프로젝트)
@@ -454,6 +454,9 @@ if __name__ == '__main__':
 <br><br>
 
 ![real ReLife Flow](https://github.com/user-attachments/assets/32ae93a9-6b4e-4cb4-906c-7382d590133e)
+<br><br>
+
+![relife real api flow](https://github.com/user-attachments/assets/b9016ba5-eb6b-4c28-a695-e596e4443a11)
 <br><br>
 
 ### 사용기술
