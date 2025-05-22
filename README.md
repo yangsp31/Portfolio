@@ -1,5 +1,3 @@
-# Portfolio
-
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/4b0df2e1-ddb3-4da4-9d35-15af4f18bdda" alt="양승필" style="margin-right: 20px;">
   <div>
@@ -606,15 +604,6 @@ if __name__ == '__main__':
 
 ### 동상 - 2024년 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회
 <br><br><br>
-
-# 읽어주셔서 감사합니다.
-
-* 포트폴리오에서 미처 다 말하지 못한 부분은 GitHub와 기술 블로그에 있으니 필요하시면 방문해 주세요.
-
-  * GitHub : https://github.com/yangsp31
- 
-  * 기술 블로그 : https://velog.io/@yang_seongp31/series
-
 
 
  
