@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/4b0df2e1-ddb3-4da4-9d35-15af4f18bdda" alt="양승필" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/1ce86812-e708-48b8-be56-cdbba17a67bf" alt="양승필" style="margin-right: 20px;">
   <div>
     <h1>양승필</h1>
     <p>생년월일 : 1999.03.31</p>
@@ -205,7 +205,7 @@ if __name__ == '__main__':
 
 ### Architecture & ERD
 
-![DrawDrealArc](https://github.com/user-attachments/assets/2415eaed-34ef-4293-a4a0-ee0eb794d967)
+![ddddd drawio](https://github.com/user-attachments/assets/b4e34a1c-a0ec-4b30-8e0c-b8cf595358a5)
 <br><br>
 
 ![DrawD Server Architecture drawio](https://github.com/user-attachments/assets/5207e3d2-45c5-455c-a6e8-eff7074b34a8)
@@ -252,7 +252,7 @@ if __name__ == '__main__':
  
   * **전체적인 JWT 흐름도**
   
-  ![JWT 흐름png](https://github.com/user-attachments/assets/7479c1e5-daff-43fe-a181-a092e3370670)
+  ![DrawD JWT](https://github.com/user-attachments/assets/323d741e-5d1c-46ad-8dec-b426a27997f6)
 ----
 * MySql과 JPA를 사용한 사용자별 다이어그램 데이터 CRUD 구현
 
@@ -453,7 +453,7 @@ if __name__ == '__main__':
 ![Architecture1](https://github.com/user-attachments/assets/430e87fd-4b91-4f0f-9245-1c03849b6522)
 <br><br>
 
-![ReLife Flow](https://github.com/user-attachments/assets/b0fe7b70-fecf-474d-a90d-1a8adddcb1c9)
+![real ReLife Flow](https://github.com/user-attachments/assets/32ae93a9-6b4e-4cb4-906c-7382d590133e)
 <br><br>
 
 ### 사용기술
